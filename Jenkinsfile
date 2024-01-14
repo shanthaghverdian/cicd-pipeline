@@ -11,4 +11,7 @@ pipeline {
     }
 
   }
+  environment {
+    registry = 'shanthaghverdian/cicd_pipeline_4_practical_test'
+  }
 }
